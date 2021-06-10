@@ -1,1 +1,1 @@
-my first preoject at alx
+my first project at alx
